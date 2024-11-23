@@ -2,8 +2,6 @@
 
 **FairShare** is a modern, user-friendly Android app designed to help you split bills, track shared expenses, and settle balances with friends, roommates, family, or travel groups. With **FairShare**, managing shared costs has never been easier—whether it's a group outing, vacation, rent, or groceries!
 
-![FairShare Logo](https://via.placeholder.com/150) 
-
 ## Features
 
 - **Group Expense Management**: Create groups and add shared expenses effortlessly.
